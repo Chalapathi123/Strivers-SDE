@@ -1,4 +1,4 @@
-/*Prob1 - Set Matrix Zeroes*/
+/*Prob1 - Set Matrix Zeroes(Leetcode)*/
 class Solution {
     public void setZeroes(int[][] matrix) {
         boolean rb=false;
